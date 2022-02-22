@@ -9,5 +9,5 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript </code>
-<code>📦 Tech stack: React.js </code>
+<code>📦 Tech stack: React/Next/Node/Nest </code>
 <code>🪙 [Rates](RATES.md)</code><br>
