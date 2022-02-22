@@ -2,8 +2,10 @@
 
 # Prisuhka  Dmitriy
 
-<code>⚪ Community: DP World</code>
-<code>👷 Speciality: Software engineer</code><br>
+
+<code>🖥️ Speciality: Software engineer</code><br>
+<code>👷 Company at DP World</code>
+<code>⚪ Community: Metarhia</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript </code>
