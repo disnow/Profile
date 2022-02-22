@@ -9,4 +9,3 @@
 <code>🧑‍💻 Languages: JavaScript </code>
 <code>📦 Tech stack: React.js </code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>📫 [your-email](mailto:prisuha1990@gmail.com)</code>
