@@ -1,6 +1,6 @@
 
 
-# Prisuhka  Dmitriy
+# Prisukha  Dmitriy
 
 
 <code>🖥️ Speciality: Software engineer</code>
